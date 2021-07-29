@@ -1,0 +1,4 @@
+devjam\sga\cliente\ClientePersonaService.class
+devjam\sga\domain\Persona.class
+devjam\sga\servicio\PersonaServiceRemote.class
+devjam\sga\servicio\PersonaServiceImpl.class

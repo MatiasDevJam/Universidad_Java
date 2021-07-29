@@ -1,0 +1,12 @@
+devjam\sga\servicio\PersonaServiceImpl.class
+devjam\sga\cliente\ciclovidajpa\ActualizarObjetoJPA.class
+devjam\sga\domain\Usuario.class
+devjam\sga\domain\Persona.class
+devjam\sga\datos\PersonaDao.class
+devjam\sga\servicio\PersonaService.class
+devjam\sga\cliente\ciclovidajpa\ActualizarObjetoSesionLarga.class
+devjam\sga\cliente\ciclovidajpa\EncontrarObjetoJPA.class
+devjam\sga\servicio\PersonaServiceRemote.class
+devjam\sga\datos\PersonaDaoImpl.class
+devjam\sga\web\PersonaServlet.class
+devjam\sga\cliente\ciclovidajpa\PersistirObjetoJPA.class

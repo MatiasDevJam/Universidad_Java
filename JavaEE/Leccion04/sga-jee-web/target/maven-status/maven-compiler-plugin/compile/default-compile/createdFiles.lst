@@ -1,0 +1,8 @@
+devjam\sga\servicio\PersonaService.class
+devjam\sga\servicio\PersonaServiceImpl.class
+devjam\sga\domain\Usuario.class
+devjam\sga\domain\Persona.class
+devjam\sga\servicio\PersonaServiceRemote.class
+devjam\sga\datos\PersonaDaoImpl.class
+devjam\sga\web\PersonaServlet.class
+devjam\sga\datos\PersonaDao.class
